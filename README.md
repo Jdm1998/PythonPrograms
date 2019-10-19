@@ -1,6 +1,6 @@
 # PythonPrograms
 
-Ques 1
+answer 1
 Number Pattern
 
 Print the following pattern for n number of rows.
